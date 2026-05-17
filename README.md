@@ -64,16 +64,14 @@ Durante o desenvolvimento deste projeto, pratiquei:
 
 ## Imagens do dashboard
 
-## Imagens do dashboard
-
 ### Página 1
-![Dashboard 1](./images/dashboard-1.png)
+![Dashboard 1](dashboard-1.png)
 
 ### Página 2
-![Dashboard 2](./images/dashboard-2.png)
+![Dashboard 2](dashboard-2.png)
 
 ### Página 3
-![Dashboard 3](./images/dashboard-3.png)
+![Dashboard 3](dashboard-3.png)
 
 ---
 
